@@ -14,6 +14,7 @@
     "dotenv-extended": "^2.0.2",
     "nconf": "^0.10.0",
     "request": "^2.85.0",
+    "request-promise": "^4.2.2",
     "restify": "^7.1.1",
     "xhr2": "*"
   },
